@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheuscurvelo
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Laravel (PHP framework)
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
